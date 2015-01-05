@@ -1,4 +1,4 @@
-# Cross compiling binaries for embedded systems
+# Crosscompiled binaries for Seagate Wireless Plus
 
 ### Description
 This .config file is for [Buildroot] (http://buildroot.uclibc.org) to compile ffmpeg on embedded system. Why Buildroot? It's much faster and more reliable than [ct-ng] (http://crosstool-ng.org/).
