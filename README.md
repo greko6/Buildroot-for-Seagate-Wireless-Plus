@@ -19,3 +19,4 @@ I wanted to compile it in a static way for Seagate Wireless Plus. It's a pretty 
     Revision        : 0000
     Serial          : 0000000000000000
 
+For the future reference: compatible optware is available here: http://ipkg.nslu2-linux.org/feeds/optware/cs05q3armel/cross/stable/ . that's where you can download and install ipkg tool too.
