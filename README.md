@@ -20,3 +20,5 @@ I wanted to compile it in a static way for Seagate Wireless Plus. It's a pretty 
     Serial          : 0000000000000000
 
 For the future reference: compatible optware is available here: http://ipkg.nslu2-linux.org/feeds/optware/cs05q3armel/cross/stable/ . that's where you can download and install ipkg tool too.
+
+As a bonus, in cg-ng folder there is a working config for crosstool-ng. Compile source with --static or symlink: ln -s n -s /lib/ld-linux.so.3 /lib/ld-linux-armhf.so.3
